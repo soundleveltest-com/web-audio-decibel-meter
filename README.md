@@ -27,7 +27,6 @@ The meter samples raw PCM audio directly from the device microphone via `createA
 Run the demo instantly on GitHub Pages:
 **[https://soundleveltest-com.github.io/web-audio-decibel-meter/](https://YOUR-GITHUB-USERNAME.github.io/web-audio-decibel-meter/)**
 
-*(Replace `YOUR-GITHUB-USERNAME` with your GitHub username)*
 
 ## Looking for Calibrated Acoustic Tools?
 
